@@ -2,7 +2,7 @@
   "name": "pmar-blog",
   "version": "0.1.0",
   "engines": {
-    "node": "14.0.0"
+    "node": "18.12.0"
   },
   "private": true,
   "dependencies": {
