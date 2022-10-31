@@ -1,6 +1,9 @@
 {
-  "name": "21tut",
+  "name": "pmar-blog",
   "version": "0.1.0",
+  "engines": {
+    "node": "8.9.4"
+  },
   "private": true,
   "dependencies": {
     "axios": "^0.21.1",
